@@ -1,0 +1,17 @@
+div.one {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+
+div.two {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+div.three {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
